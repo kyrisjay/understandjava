@@ -1,4 +1,4 @@
-package practise.JavasePackage;
+package practise.JavasePackage.book;
 
 public class Book {
     private  String title;

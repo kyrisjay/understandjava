@@ -1,4 +1,6 @@
-package practise.javapra4;
+package practise.javapra4.person;
+
+import practise.javapra4.person.Person;
 
 public class Student extends Person {
     private String school;

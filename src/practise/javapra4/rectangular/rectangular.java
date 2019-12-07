@@ -1,4 +1,4 @@
-package practise.javapra4;
+package practise.javapra4.rectangular;
 
 public class rectangular {
     private double length;

@@ -1,4 +1,4 @@
-package practise.JavasePackage;
+package practise.JavasePackage.stu;
 
 public class Student {
     private int stuNumber;

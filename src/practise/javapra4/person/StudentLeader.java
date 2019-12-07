@@ -1,4 +1,6 @@
-package practise.javapra4;
+package practise.javapra4.person;
+
+import practise.javapra4.person.Student;
 
 public class StudentLeader extends Student {
     private String job;

@@ -1,4 +1,4 @@
-package practise.javapra4;
+package practise.javapra4.vehicle;
 
 public class Vehicle {
     private int wheels;

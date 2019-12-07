@@ -1,4 +1,6 @@
-package practise.JavasePackage;
+package practise.JavasePackage.car;
+
+import practise.JavasePackage.car.Car;
 
 public class CarTest {
     static Car[] car = new Car[20];

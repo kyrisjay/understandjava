@@ -1,4 +1,6 @@
-package practise.javapra4;
+package practise.javapra4.vehicle;
+
+import practise.javapra4.vehicle.Vehicle;
 
 public class Car extends Vehicle {
     private int loader;

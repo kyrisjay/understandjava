@@ -1,4 +1,4 @@
-package practise.javapra4;
+package practise.javapra4.person;
 
 public class testPerson {
     public static void main(String[] args) {

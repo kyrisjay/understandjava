@@ -1,4 +1,6 @@
-package practise.javapra4;
+package practise.javapra4.rectangular;
+
+import practise.javapra4.rectangular.rectangularSon;
 
 public class rsTest {
     public static void main(String[] args) {

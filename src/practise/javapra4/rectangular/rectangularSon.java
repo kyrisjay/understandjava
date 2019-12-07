@@ -1,4 +1,6 @@
-package practise.javapra4;
+package practise.javapra4.rectangular;
+
+import practise.javapra4.rectangular.rectangular;
 
 public class rectangularSon extends rectangular {
     private double height;

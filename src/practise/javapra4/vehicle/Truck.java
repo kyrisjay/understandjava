@@ -1,6 +1,6 @@
-package practise.javapra4;
+package practise.javapra4.vehicle;
 
-public class Truck extends Car{
+public class Truck extends Car {
     private double payload;
     public Truck(){
 
