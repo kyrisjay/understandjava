@@ -66,15 +66,15 @@ public class StuTest {
         }
 
         System.out.println("--------------------");
-//        for (int i = 0; i < n; i++) {
-//            for (int j = 0; j < n - i - 1; j++) {
-//                if (sag[j] > sag[j + 1]) {
-//                    double score = sag[j];
-//                    sag[j] = sag[j + 1];
-//                    sag[j + 1] = score;
-//                }
-//            }
-//        }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n - i - 1; j++) {
+                if (sag[j] > sag[j + 1]) {
+                    double score = sag[j];
+                    sag[j] = sag[j + 1];
+                    sag[j + 1] = score;
+                }
+            }
+        }
         for (int i = 0; i < sag.length; i++) {
             System.out.println(sag[i]);
         }
