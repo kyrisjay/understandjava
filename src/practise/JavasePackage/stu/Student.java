@@ -7,6 +7,10 @@ public class Student {
     private int gradeClass;
     private double score;
 
+    public Student() {
+
+    }
+
     public Student(int stuNumber, String stuName, int age, int gradeClass, double score) {
         this.stuNumber = stuNumber;
         this.stuName = stuName;
