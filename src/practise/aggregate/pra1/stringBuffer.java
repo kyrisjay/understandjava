@@ -1,4 +1,4 @@
-package practise.aggregatePra1;
+package practise.aggregate.pra1;
 
 public class stringBuffer {
     public static void main(String[] args) {

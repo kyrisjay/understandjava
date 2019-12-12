@@ -1,4 +1,4 @@
-package practise.aggregatePra1;
+package practise.aggregate.pra1;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

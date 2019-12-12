@@ -1,4 +1,5 @@
 package practise.javapra4.AccAndCus;
+
 /*
 写一个名为Account的类模拟账户。该类的属性和方法如下图所示。该类包括的属性:账号id,余额balance,年利率annualInterestRate;
 包含的方法:访问器方法(getter和setter方法),取款方法withdraw(),存款方法deposit()。
