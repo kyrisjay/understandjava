@@ -1,4 +1,4 @@
-package practise.exampletwo.MapExample;
+package practise.exampletwo.mapexample;
 
 import java.util.TreeMap;
 
