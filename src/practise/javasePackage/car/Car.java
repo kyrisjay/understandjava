@@ -1,4 +1,4 @@
-package practise.JavasePackage.car;
+package practise.javasePackage.car;
 
 public class Car {
     private String model;

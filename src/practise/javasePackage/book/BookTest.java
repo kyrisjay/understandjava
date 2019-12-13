@@ -1,6 +1,4 @@
-package practise.JavasePackage.book;
-
-import practise.JavasePackage.book.Book;
+package practise.javasePackage.book;
 
 public class BookTest {
     public static void main(String[] args){

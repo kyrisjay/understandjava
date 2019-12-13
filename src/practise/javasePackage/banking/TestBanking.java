@@ -1,4 +1,4 @@
-package practise.JavasePackage.banking;
+package practise.javasePackage.banking;
 
 public class TestBanking {
     public static void main(String[] args) {

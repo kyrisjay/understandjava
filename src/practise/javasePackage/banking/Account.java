@@ -1,4 +1,4 @@
-package practise.JavasePackage.banking;
+package practise.javasePackage.banking;
 
 public class Account {
     private double balance;

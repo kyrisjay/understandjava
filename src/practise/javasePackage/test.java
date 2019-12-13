@@ -1,4 +1,4 @@
-package practise.JavasePackage;
+package practise.javasePackage;
 
 public class test {
     static {

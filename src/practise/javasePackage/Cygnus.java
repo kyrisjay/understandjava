@@ -1,4 +1,4 @@
-package practise.JavasePackage;
+package practise.javasePackage;
 
 public   class  Cygnus{
     static int value = 9; //注意value是静态的成员变量

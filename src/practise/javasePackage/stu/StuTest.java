@@ -1,4 +1,4 @@
-package practise.JavasePackage.stu;
+package practise.javasePackage.stu;
 
 import java.util.Scanner;
 

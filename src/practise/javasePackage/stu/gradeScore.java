@@ -1,4 +1,4 @@
-package practise.JavasePackage.stu;
+package practise.javasePackage.stu;
 
 public class gradeScore {
     private  int gradeClass;
