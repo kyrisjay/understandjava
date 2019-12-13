@@ -21,9 +21,9 @@ public class ListTest {
 
        stu.search(9768);
 
-//
-//        stu.del(cr);
-//        stu.print();
+
+        stu.del(cr);
+        stu.print();
 
 
     }
