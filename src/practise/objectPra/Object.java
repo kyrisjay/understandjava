@@ -1,4 +1,4 @@
-package practise.ObjectPra;
+package practise.objectPra;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
