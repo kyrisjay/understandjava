@@ -1,7 +1,5 @@
 package practise.JavasePackage.banking;
 
-import practise.javapra4.A;
-
 public class TestBanking {
     public static void main(String[] args) {
         Account a = new Account(500.00);
