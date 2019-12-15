@@ -38,7 +38,21 @@ public class Student {
         this.stuNum = stuNum;
     }
 
+    public static int getTemp() {
+        return temp;
+    }
 
+    public static void setTemp(int temp) {
+        Student.temp = temp;
+    }
+
+    public static TreeMap<Integer, String> getTm() {
+        return tm;
+    }
+
+    public static void setTm(TreeMap<Integer, String> tm) {
+        Student.tm = tm;
+    }
 
     void addStu(Student stu) {
         tm.put(stuNum, name);
