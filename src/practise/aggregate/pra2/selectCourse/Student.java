@@ -1,8 +1,7 @@
 package practise.aggregate.pra2.selectCourse;
 
 
-import practise.aggregate.pra2.selectCourse.course;
-
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
@@ -60,7 +59,6 @@ public class Student {
             }
         }
     }
-
 
 
     public void print() {
