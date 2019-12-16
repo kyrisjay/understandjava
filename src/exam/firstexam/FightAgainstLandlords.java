@@ -1,4 +1,4 @@
-package practise.firstexam;
+package exam.firstexam;
 
 import java.util.ArrayList;
 import java.util.Arrays;
